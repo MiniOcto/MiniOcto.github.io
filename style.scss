@@ -22,6 +22,14 @@ body {
   font: 18px/1.4 $helvetica;
   color: rgb(255, 0, 0);
 }
+.box{
+background-color: lightgrey;
+	  background-image: linear-gradient(rgba(0, 97, 255, 0.5), rgba(255, 106, 0, 0.5));
+    width: 300px;
+    border: 0px solid white;
+    padding: 25px;
+    margin: 25px;
+}
 
 .container {
   margin: 0 auto;
