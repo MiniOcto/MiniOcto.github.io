@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: url("http://www.gsfdcy.com/data/img/43/1627051-infinity-wallpaper.jpghttps://dslv9ilpbe7p1.cloudfront.net/DDY-NiQxbh9R9m0pQrX_6w_store_banner_image.jpeg");
+  background: url("https://images.wallpaperscraft.com/image/infinity_lines_dots_background_69115_1920x1080.jpg");
   font: 18px/1.4 $helvetica;
   color: #6A4575;
 }
@@ -41,7 +41,7 @@ background-color: lightgrey;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: rgb(255, 0, 0);
+  color: #6A4575;
   font-weight: bold;
 
   line-height: 1.7;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #6A4575;
   }
 }
 
@@ -70,7 +70,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #6A4575;
 }
 
 p {
@@ -79,12 +79,12 @@ p {
 
 a {
   font-size: 50px;
-	filter: opacity(0.5);
-  color: $blue;
+  filter: drop-shadow(16px 16px 20px red) invert(75%);;
+  color: #6A4575;
   text-decoration: underline;
-	cursor: url(https://loading.io/spinners/infinity/lg.infinity-rotate-cycle-loader.gif);
+  cursor: url(https://loading.io/spinners/infinity/lg.infinity-rotate-cycle-loader.gif);
   &:hover, &:active {
-    color:#AD7EE7;
+    
   }
 }
 
