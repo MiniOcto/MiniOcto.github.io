@@ -79,6 +79,7 @@ p {
 
 a {
   font-size: 35px;
+	filter: opacity(0.5);
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
