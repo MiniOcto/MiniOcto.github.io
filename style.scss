@@ -24,9 +24,9 @@ body {
 }
 .box{
 background-color: lightgrey;
-    background-image: linear-gradient(rgba(0, 97, 255, 0.5), rgba(255, 106, 0, 0.5));
+    background-image: linear-gradient(#BBB2DB, #F2CCF1);
     width: 300px;
-    border: 1px solid black;
+    border: 1px solid #6A4575;
     padding: 25px;
     margin: auto;
     border-radius: 25px;
@@ -82,9 +82,9 @@ a {
 	filter: opacity(0.5);
   color: $blue;
   text-decoration: underline;
-	cursor: pointer;
+	cursor: progress;
   &:hover, &:active {
-    color: $blue;
+    color:#AD7EE7;
   }
 }
 
