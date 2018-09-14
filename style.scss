@@ -78,13 +78,13 @@ p {
 }
 
 a {
-  font-size: 50px;
-  filter: drop-shadow(16px 16px 20px red) invert(75%);;
+  
+  &:hover, &:active {
+ font-size: 50px;
   color: #6A4575;
   text-decoration: underline;
   cursor: not-allowed;
-  &:hover, &:active {
-    
+    filter: invert;
   }
 }
 
