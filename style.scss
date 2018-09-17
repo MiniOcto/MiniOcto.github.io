@@ -50,6 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  font: Courier New;
 }
 h1 a {
   color: #3A4489;
@@ -74,7 +75,6 @@ p {
 
 a:hover, a:active {
   font-size: 31px;
-  color: #3A4489;
   text-decoration: underline overline;
   cursor: not-allowed;
   font: 31px/1.4 Courier New;
