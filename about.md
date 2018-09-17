@@ -7,8 +7,9 @@ Loading...
 
 ### More Information
 
-I am a human living on the planet earth
+I am a human living on the planet earth.
 
-### Contact me?
-Dont!
+### Contact me
+My github usernam is MiniOcto.
+
 
