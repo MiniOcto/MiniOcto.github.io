@@ -200,7 +200,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #3A4489;
+  color: #ff2a00;
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
@@ -213,7 +213,7 @@ nav {
   float: right;
   margin-top: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 17px;
 }
 @media screen and (max-width: 640px) {
   nav {
@@ -225,7 +225,7 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #333;
+  color: #ff2a00;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
@@ -239,7 +239,7 @@ nav a {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #eee;
+  border-bottom: none;
 }
 
 .posts > .post:last-child {
